@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talibyte01
-- 👀 I’m interested in learning new stuff and studying applied computer sciences
-- 🌱 I’m currently learning C and SQL in Uni and having basic Java knowledge
+- 👀 I’m interested in learning new stuff and studying applied computer science 
+- 🌱 I’m currently learning C++ and SQL in Uni and having basic Java knowledge
 
 <!---
 talibyte01/talibyte01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
