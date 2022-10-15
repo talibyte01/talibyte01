@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @talibyte01
-- 👀 I’m interested in learning new stuff and studying applied computer science 
-- 🌱 I’m currently learning C++ and SQL in Uni and having basic Java knowledge
+- 👀 I’m interested in learning new stuff and studying applied computer science.
+- 👩‍💻 Having a Job in IT Support
+- :trophy:  I’ve passed my C++ and Database Course in Uni
+- 🌱 I'm currently learning Web Principles like HTML and CSS and advanced Web Development like JavaScript, PHP as well. 
+- 👥 I have an ongoing Java Project for the next two Semesters
+
 
 <!---
 talibyte01/talibyte01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
