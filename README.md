@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @talibyte01
 - 👀 I’m interested in learning new stuff and studying applied computer science.
 - 👩‍💻 I have a students job in IT Support
-- :trophy:  I’ve passed my C++ and Database Course in Uni
+- :trophy:  I’ve passed my embedded systems course and my software engineering course in Uni.
 - 🌱 I'm currently learning Android App programming with Kotlin as well as Information Retrieval and the basics of image processing.
 - 👥 I have an ongoing project about building a 2D Plotter out of DVD drives and my Android project is about building a drawing app.
 
